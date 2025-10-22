@@ -9,8 +9,7 @@ The Gym System provides a complete platform for managing trainees and coaches.
 
 3-Each trainee has a personalized training schedule and can track their own progress by:
 
-  Uploading before and after photos.
-
-  Monitoring their development rate through visual progress graphs showing improvement percentages.
+   Uploading before and after photos.
+   Monitoring their development rate through visual progress graphs showing improvement percentages.
 
 4-The system also highlights the best training plans based on the number of trainees enrolled in each plan.
