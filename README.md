@@ -1,4 +1,4 @@
-# Gym_Project
+# Gym_Genuis_Project
 🏋️‍♂️ Gym Management System
 
 The Gym System provides a complete platform for managing trainees and coaches.
